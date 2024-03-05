@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikant Baghel</h1>
-<h3 align="center">A passionate learner</h3>
+<h2 align="center">A Passionate Learner</h2>
 
 - 🌱 I’m currently learning **Python, Docker, AI & ML**
 
