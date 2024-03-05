@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rkworld@gmail.com**
 
-- ⚡ Fun fact **ALways Smiling**
+- ⚡ Fun fact **Always Smiling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
