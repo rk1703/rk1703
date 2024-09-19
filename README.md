@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravikant Baghel</h1>
 <h2 align="center">A Passionate Learner</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rk1703&label=Profile%20views&color=0e75b6&style=flat" alt="rk1703" /> </p>
+
 - 🌱 I’m currently learning **Python, Docker, AI & ML**
 
 - 💬 Ask me about **Next.js, React, React Native, Tailwind**
